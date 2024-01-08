@@ -1,0 +1,419 @@
+$comment
+	File created using the following command:
+		vcd file SpecialCount.msim.vcd -direction
+$end
+$date
+	Fri Dec 22 09:48:11 2023
+$end
+$version
+	Questa Intel Starter FPGA Edition Version 2021.2
+$end
+$timescale
+	1ps
+$end
+
+$scope module specialcount_vhd_vec_tst $end
+$var wire 1 ! clock $end
+$var wire 1 " q [3] $end
+$var wire 1 # q [2] $end
+$var wire 1 $ q [1] $end
+$var wire 1 % q [0] $end
+
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var wire 1 ) devoe $end
+$var wire 1 * devclrn $end
+$var wire 1 + devpor $end
+$var wire 1 , ww_devoe $end
+$var wire 1 - ww_devclrn $end
+$var wire 1 . ww_devpor $end
+$var wire 1 / ww_q [3] $end
+$var wire 1 0 ww_q [2] $end
+$var wire 1 1 ww_q [1] $end
+$var wire 1 2 ww_q [0] $end
+$var wire 1 3 ww_clock $end
+$var wire 1 4 \q[3]~output_o\ $end
+$var wire 1 5 \q[2]~output_o\ $end
+$var wire 1 6 \q[1]~output_o\ $end
+$var wire 1 7 \q[0]~output_o\ $end
+$var wire 1 8 \clock~input_o\ $end
+$var wire 1 9 \inst|sub|68~combout\ $end
+$var wire 1 : \inst|sub|34~q\ $end
+$var wire 1 ; \inst|sub|115~combout\ $end
+$var wire 1 < \inst|sub|111~q\ $end
+$var wire 1 = \inst|sub|126~combout\ $end
+$var wire 1 > \inst|sub|122~q\ $end
+$var wire 1 ? \inst|sub|137~0_combout\ $end
+$var wire 1 @ \inst|sub|134~q\ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0&
+1'
+x(
+1)
+1*
+1+
+1,
+1-
+1.
+03
+04
+05
+06
+07
+08
+19
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0"
+0#
+0$
+0%
+0/
+00
+01
+02
+$end
+#25000
+1!
+13
+18
+1:
+09
+1;
+17
+12
+1%
+#50000
+0!
+03
+08
+#75000
+1!
+13
+18
+0:
+1<
+19
+16
+07
+11
+02
+0%
+1$
+#100000
+0!
+03
+08
+#125000
+1!
+13
+18
+1:
+09
+0;
+1=
+17
+12
+1%
+#150000
+0!
+03
+08
+#175000
+1!
+13
+18
+0:
+0<
+1>
+19
+15
+06
+07
+10
+01
+02
+0%
+0$
+1#
+#200000
+0!
+03
+08
+#225000
+1!
+13
+18
+1:
+09
+1;
+17
+12
+1%
+#250000
+0!
+03
+08
+#275000
+1!
+13
+18
+0:
+1<
+19
+16
+07
+11
+02
+0%
+1$
+#300000
+0!
+03
+08
+#325000
+1!
+13
+18
+1:
+09
+0;
+0=
+1?
+17
+12
+1%
+#350000
+0!
+03
+08
+#375000
+1!
+13
+18
+0:
+0<
+0>
+1@
+0?
+14
+05
+06
+07
+1/
+00
+01
+02
+0%
+0$
+0#
+1"
+#400000
+0!
+03
+08
+#425000
+1!
+13
+18
+0@
+19
+04
+0/
+0"
+#450000
+0!
+03
+08
+#475000
+1!
+13
+18
+1:
+09
+1;
+17
+12
+1%
+#500000
+0!
+03
+08
+#525000
+1!
+13
+18
+0:
+1<
+19
+16
+07
+11
+02
+0%
+1$
+#550000
+0!
+03
+08
+#575000
+1!
+13
+18
+1:
+09
+0;
+1=
+17
+12
+1%
+#600000
+0!
+03
+08
+#625000
+1!
+13
+18
+0:
+0<
+1>
+19
+15
+06
+07
+10
+01
+02
+0%
+0$
+1#
+#650000
+0!
+03
+08
+#675000
+1!
+13
+18
+1:
+09
+1;
+17
+12
+1%
+#700000
+0!
+03
+08
+#725000
+1!
+13
+18
+0:
+1<
+19
+16
+07
+11
+02
+0%
+1$
+#750000
+0!
+03
+08
+#775000
+1!
+13
+18
+1:
+09
+0;
+0=
+1?
+17
+12
+1%
+#800000
+0!
+03
+08
+#825000
+1!
+13
+18
+0:
+0<
+0>
+1@
+0?
+14
+05
+06
+07
+1/
+00
+01
+02
+0%
+0$
+0#
+1"
+#850000
+0!
+03
+08
+#875000
+1!
+13
+18
+0@
+19
+04
+0/
+0"
+#900000
+0!
+03
+08
+#925000
+1!
+13
+18
+1:
+09
+1;
+17
+12
+1%
+#950000
+0!
+03
+08
+#975000
+1!
+13
+18
+0:
+1<
+19
+16
+07
+11
+02
+0%
+1$
+#1000000
