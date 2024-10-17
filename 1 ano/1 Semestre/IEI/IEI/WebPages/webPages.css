@@ -1,0 +1,87 @@
+
+header {
+    background-color: rgb(144, 238, 144);
+    height: 80px;
+    margin: -20px;
+    border: 0;
+    padding: 0;
+}
+
+.main_body {
+    position: absolute;
+    border-radius: 20px;
+    background-color: azure;
+    height: 98%;
+    width: 98%;
+    margin: 10px;
+    margin-top: 50px;
+}
+#Home {
+    position: absolute;
+    margin: 5px;
+    margin-left: 10px;
+    color: white;
+    text-align: left;
+    font-size: xx-large;
+}
+#buttonHome {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: xx-large;
+    background-color: rgb(144, 238, 144);
+    color: white;
+    padding: 0;
+    border: 0;
+}
+
+#buttonContacts {
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 30px;
+    font-size: xx-large;
+    background-color: rgb(144, 238, 144);
+    color: white;
+    padding: 0;
+    border: 0;
+}
+
+#buttonCalculator {
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 30px;
+    font-size: xx-large;
+    background-color: rgb(144, 238, 144);
+    color: white;
+    padding: 0;
+    border: 0;
+}
+
+#Calculator {
+    background-color: lightcoral;
+    height: 400px;
+    width: 450px;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+
+#n0 , #n1 , #n2 , #n3 , #n4 , #n5 , #n6 , #n7 , #n8 , #n9 , #p, #m, #d, #t , #total {
+    height: 80px;
+    width: 80px;
+    color: black;
+    background-color: white;
+}
+
+#output{
+    width: 400px;
+}
+
+#n2 {
+    position: relative;
+}
+
+#body_cal {
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 400px;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="webPages.css">
+    </head>
+    <body>
+        <header>
+            <div id="Home">
+                <form action="HomePage.html">
+                    <button id="buttonHome" type="submit">Home</button>
+                </form>
+                <form action="ContactsPage.html">
+                    <button id="buttonContacts" type="submit">Contacts</button>
+                </form>
+                <form action="Calculator.html">
+                    <button id="buttonCalculator" type="submit">Calculadora</button>
+                </form>
+            </div>
+        </header>
+        <p></p>
+        <div id="body_cal">
+            <div id="Calculator">
+                <label for="output"></label><input type="textbox" id="output"></input>
+                <button id="n1" onclick="op('1')">1</button>
+                <button id="n2" onclick="op('2')">2</button>
+                <button id="n3" onclick="op('3')">3</button>
+                <button id="p" onclick="op('p')">+</button>
+                <button id="m" onclick="op('m')">-</button>
+                <button id="n4" onclick="op('4')">4</button>
+                <button id="n5" onclick="op('5')">5</button>
+                <button id="n6" onclick="op('6')">6</button>
+                <button id="t" onclick="op('t')">*</button>
+                <button id="d" oclick="op('d')">/</button>
+                <button id="n7" onclick="op('7')">7</button>
+                <button id="n8" onclick="op('8')">8</button>
+                <button id="n9" onclick="op('9')">9</button>
+                <button id="n0" onclick="op('0')">0</button>
+                <button id="total" onclick="op('total')">=</button>
+            </div>
+        </div>
+    </body>
+</html>
