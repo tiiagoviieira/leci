@@ -1,0 +1,57 @@
+
+Alínea 1) ----------------------------------
+
+Evento: Nome: Thunderous, Duração: 90, Artista: Neon Pulse Tour, Tipo: Concert
+Local: Nome: Riverside Theatre, Capacidade: 0
+Data: 2024-06-14 18:30
+Evento: Nome: Esperanza Spalding, Duração: 75, Artista: A Tribute to Nina Simone, Tipo: Concert
+Local: Nome: City Lights Cinema, Capacidade: 0
+Data: 2024-06-10 20:15
+Evento: Nome: The Importance of Being Earnest, Duração: 150, Autor: Oscar Wilde, Tipo: Theatre, Campanhia Teatro: Grand Theatre Company
+Local: Nome: Central Park Bandshell, Capacidade: 0
+Data: 2024-06-22 19:30
+Evento: Nome: The Ballad of Black Bart, Duração: 90, Autor: Maria Hernandez, Tipo: Theatre, Campanhia Teatro: Riverbank Community Players
+Local: Nome: The Black Box, Capacidade: 0
+Data: 2024-06-19 21:00
+Evento: Nome: The Maltese Falcon, Duração: 100, Realizador: John Huston, Ano: 1941, Tipo: Cinema, 
+Atores: [Ljava.lang.String;@71be98f5
+Local: Nome: Riverside Theatre, Capacidade: 0
+Data: 2024-06-20 18:45
+Evento: Nome: The Invisible Thread, Duração: 90, Realizador: David Choi, Ano: 2023, Tipo: Cinema, 
+Atores: [Ljava.lang.String;@6fadae5d
+Local: Nome: City Lights Cinema, Capacidade: 0
+Data: 2024-06-11 22:00
+Evento: Nome: Thunderous, Duração: 90, Artista: Neon Pulse Tour, Tipo: Concert
+Local: Nome: Central Park Bandshell, Capacidade: 0
+Data: 2024-06-23 19:30
+Evento: Nome: Esperanza Spalding, Duração: 75, Artista: A Tribute to Nina Simone, Tipo: Concert
+Local: Nome: The Black Box, Capacidade: 0
+Data: 2024-06-28 18:30
+Evento: Nome: The Importance of Being Earnest, Duração: 150, Autor: Oscar Wilde, Tipo: Theatre, Campanhia Teatro: Grand Theatre Company
+Local: Nome: Riverside Theatre, Capacidade: 0
+Data: 2024-06-12 20:45
+Evento: Nome: The Ballad of Black Bart, Duração: 90, Autor: Maria Hernandez, Tipo: Theatre, Campanhia Teatro: Riverbank Community Players
+Local: Nome: City Lights Cinema, Capacidade: 0
+Data: 2024-06-17 19:00
+Evento: Nome: The Maltese Falcon, Duração: 100, Realizador: John Huston, Ano: 1941, Tipo: Cinema, 
+Atores: [Ljava.lang.String;@71be98f5
+Local: Nome: Central Park Bandshell, Capacidade: 0
+Data: 2024-06-25 21:15
+Evento: Nome: The Invisible Thread, Duração: 90, Realizador: David Choi, Ano: 2023, Tipo: Cinema, 
+Atores: [Ljava.lang.String;@6fadae5d
+Local: Nome: The Black Box, Capacidade: 0
+Data: 2024-06-29 18:00
+Evento: Nome: The Revivalists, Duração: 90, Artista: Summer Soul Sessions, Tipo: Concert
+Local: Nome: Riverside Theatre, Capacidade: 0
+Data: 2024-06-14 18:30
+
+
+Alínea 2) ----------------------------------
+
+
+Finished reading file.
+
+
+** First 10 available events, sorted by date:
+
+** Number of tickets sold by event type:
