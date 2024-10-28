@@ -1,0 +1,9 @@
+# i: $t0
+# lista: $t1
+# lista + i: $t2
+	
+	.data
+	.text
+	.globl main
+	
+main:	
